@@ -1,0 +1,1 @@
+This is a Bean Registrar + Kotlin Routing DSL Spring 7.0 app
